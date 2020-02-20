@@ -1,7 +1,7 @@
 Flask-GitHub Demo
 =======================
 
-This is a demo app to demosreate the OAuth with GitHub with any OAuth Library.
+This is a demo app to demosreate the OAuth with GitHub without using any OAuth Library.
 
 ## Installation
 
